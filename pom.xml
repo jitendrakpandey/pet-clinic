@@ -54,8 +54,15 @@
             </plugin>
         </plugins>
     </build>
-    <scm>
+    <distributionManagement>
+        <repository>
+            <id>pet-clinic</id>
+            <name>pet clinic</name>
+            <url>https://github.com/jitendrakpandey/pet-clinic.git</url>
+        </repository>
+    </distributionManagement>
+    <!--<scm>
         <developerConnection>scm:git:git@github.com:jitendrakpandey/pet-clinic.git</developerConnection>
       <tag>HEAD</tag>
-  </scm>
+  </scm>-->
 </project>
