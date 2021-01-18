@@ -45,6 +45,7 @@
                 <version>2.5.3</version>
                 <configuration>
                     <goal>install</goal>
+                    <pushChanges>false</pushChanges>
                 </configuration>
             </plugin>
         </plugins>
