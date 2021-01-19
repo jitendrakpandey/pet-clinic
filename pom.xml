@@ -16,7 +16,7 @@
 
     <groupId>spring.example</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0.9-SNAPSHOT</version>
+    <version>0.0.9</version>
     <name>pet-clinic</name>
     <description>Demo project for Spring Boot</description>
 
@@ -63,6 +63,6 @@
     </distributionManagement>-->
     <scm>
         <developerConnection>scm:git:git@github.com:jitendrakpandey/pet-clinic.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>pet-clinic-0.0.9</tag>
   </scm>
 </project>
