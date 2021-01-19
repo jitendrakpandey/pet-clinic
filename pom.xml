@@ -61,8 +61,8 @@
             <url>https://github.com/jitendrakpandey/pet-clinic.git</url>
         </repository>
     </distributionManagement>
-    <!--<scm>
+    <scm>
         <developerConnection>scm:git:git@github.com:jitendrakpandey/pet-clinic.git</developerConnection>
       <tag>HEAD</tag>
-  </scm>-->
+  </scm>
 </project>
