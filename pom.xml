@@ -48,7 +48,7 @@
                 <configuration>
                     <goal>install</goal>
                     <autoVersionSubmodules>true</autoVersionSubmodules>
-                    <pushChanges>false</pushChanges>
+                    <pushChanges>true</pushChanges>
                     <localCheckout>true</localCheckout>
                 </configuration>
             </plugin>
