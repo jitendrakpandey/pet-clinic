@@ -57,6 +57,6 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:jitendrakpandey/pet-clinic.git</developerConnection>
-        <tag>pet-clinic-1.2-SNAPSHOT</tag>
+        <tag>HEAD</tag>
   </scm>
 </project>
