@@ -16,7 +16,7 @@
 
     <groupId>spring.example</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>0.0.4-SNAPSHOT</version>
     <name>pet-clinic</name>
     <description>Demo project for Spring Boot</description>
 
@@ -47,7 +47,7 @@
                 <configuration>
                     <goal>install</goal>
                     <autoVersionSubmodules>true</autoVersionSubmodules>
-                    <pushChanges>true</pushChanges>
+                    <pushChanges>false</pushChanges>
                     <localCheckout>true</localCheckout>
                 </configuration>
             </plugin>
@@ -56,6 +56,6 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:jitendrakpandey/pet-clinic.git</developerConnection>
-        <tag>1.0</tag>
+        <tag>pet-clinic-1.1</tag>
   </scm>
 </project>
